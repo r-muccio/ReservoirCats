@@ -12,6 +12,7 @@ It is built on the MERN stack:
 <h2>Other Group Members:</h2>
 
 R-LeBlanc <https://github.com/R-LeBlanc>
+
 MichelleDeblois <https://github.com/MichelleDeblois>
 
 <h2>Landing page:</h2>
