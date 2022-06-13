@@ -16,11 +16,11 @@ R-LeBlanc <https://github.com/R-LeBlanc>
 MichelleDeblois <https://github.com/MichelleDeblois>
 
 
-<h2>Landing page:</h2>
+<h2>Landing Page:</h2>
 
 ![LandingPage](https://user-images.githubusercontent.com/91158694/173381575-12779493-bc78-4842-ba5f-734b4254f62a.png)
 
-The landing page presents the user a short fade-in animation, revealing some cartoons cats (the Reservoir Cats, as we called them).
+The landing page presents the user a short fade-in animation, revealing some cartoon cats (the Reservoir Cats, as we called them).
 
 
 <h2>All Products:</h2>
@@ -45,4 +45,4 @@ Users can add or remove items from their cart, or reset their cart. LocalStorage
 
 ![OrderConfirmation](https://user-images.githubusercontent.com/91158694/173390383-ced632ff-b8ef-46cc-84e2-6b09609caa9f.png)
 
-Upon placing an order, the user is presented with a confrimation page. A summary of the purchase is provided, along with an order ID generated using UUIDv4.
+Upon placing an order, the user is presented with a confirmation page. A summary of the purchase is provided, along with an order ID generated using UUIDv4.
