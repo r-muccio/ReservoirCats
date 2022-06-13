@@ -15,11 +15,13 @@ R-LeBlanc <https://github.com/R-LeBlanc>
 
 MichelleDeblois <https://github.com/MichelleDeblois>
 
+
 <h2>Landing page:</h2>
 
 ![LandingPage](https://user-images.githubusercontent.com/91158694/173381575-12779493-bc78-4842-ba5f-734b4254f62a.png)
 
 The landing page presents the user a short fade-in animation, revealing some cartoons cats (the Reservoir Cats, as we called them).
+
 
 <h2>All Products:</h2>
 
@@ -31,11 +33,13 @@ The AllProducts page presents the user with the products for sale. Each product 
 
 A cool feature of this app is that items can be sorted based on various criteria.
 
+
 <h2>Cart:</h2>
 
 ![Cart](https://user-images.githubusercontent.com/91158694/173388290-9aca9b42-235e-45b8-a48f-9df34a3c20b1.png)
 
 Users can add or remove items from their cart, or reset their cart. LocalStorage allows the cart's contents to persist through a refresh or a closed browser window. The Cart component's fuctionality comes from a CartContext file, which contains a useReducer hook.
+
 
 <h2>Order Confirmation:</h2>
 
